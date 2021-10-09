@@ -1,0 +1,22 @@
+{
+    "balanceDate" : "2021-09-19",
+   "balance" : [
+        {
+        "bsb": "182182",
+        "identification": 111222333,
+        "balance": 123.34
+        },
+
+       {
+        "bsb": "182182",
+        "identification": 222000111,
+        "balance": 12.34
+        },
+
+        {
+        "bsb": "182182",
+        "identification": 222000999,
+        "balance": 0.00
+        }
+    ]
+}
